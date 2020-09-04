@@ -1,0 +1,3 @@
+org\keycloak\authentication\authenticators\resetcred\SmsAuthenticator.class
+org\keycloak\authentication\authenticators\resetcred\SmsAuthenticator$CODE_STATUS.class
+org\keycloak\authentication\authenticators\resetcred\SmsAuthenticator$1.class
